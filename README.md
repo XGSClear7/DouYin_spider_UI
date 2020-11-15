@@ -47,7 +47,7 @@ Python 3.8
 
 #### 安装依赖
 ``` python
-pip install -r  requirement.txt #即可一键安装依赖
+pip install -r  requirements.txt #即可一键安装依赖
 ```
 #### 程序运行
 ```    python
